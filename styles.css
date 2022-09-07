@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.results{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+border: 1px solid black;
+width: 90%;
+
+
+}
+.bookInfo{
+    display: flex;
+    width: 40%;
+    height: 10rem;
+   
+    border: 2px black solid;
+}
